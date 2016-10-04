@@ -1,5 +1,6 @@
-# Nothing in this directory will be committed or synced
+# Nothing in these directories will be committed or synced
 Dont_sync
+Data
 
 # emacs backups
 *~
